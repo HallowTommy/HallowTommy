@@ -1,88 +1,87 @@
-# Привет! 👋
+# Hi there! 👋
 
-Меня зовут **Никита**, мне **29**, я живу в **Минске, Республика Беларусь**.  
-Я **разработчик** с опытом около **3 лет**. Ранее занимался **маркетингом и бизнесом**: запускал проекты, проверял гипотезы, выстраивал процессы и коммуникации. Сейчас мой фокус — **backend-разработка на Python** и рост до сильного инженера.
-
----
-
-## Про меня (коротко)
-
-- Перешёл в разработку осознанно: нравится системность и возможность строить продукты, автоматизировать процессы и доводить решения до результата.
-- Беру ответственность, умею организовывать работу, быстро адаптируюсь и проверяю гипотезы на практике.
-- Держу фокус на качестве кода и понятной архитектуре: чистый код, ООП, базовые принципы проектирования.
+My name is **Nikita**, I’m **29**, and I live in **Minsk, Belarus**.  
+I’m a **software developer** with about **3 years** of experience. Before switching to engineering, I worked in **marketing and business** — launching projects, validating hypotheses, and building processes and communication. My current focus is **Python backend development** and growing into a strong engineer.
 
 ---
 
-## Как пришёл в разработку
+## About me
 
-Начинал с бесплатных материалов и практики:
-- чтобы лучше понимать “как всё работает”, заглядывал в низкоуровневые темы (в т.ч. синтаксис ассемблера),
-- затем перешёл на **Python** и выбрал его основной технологией,
-- закреплял базу на небольших проектах: функции, структура проекта, аккуратный код, простые архитектурные решения.
-
----
-
-## Сильные стороны
-
-- **Предпринимательский/продуктовый подход:** думаю про пользу, ограничения и результат.
-- **Коммуникации и управление:** умею договариваться, объяснять и выстраивать взаимодействие.
-- **Быстро учусь:** под задачу поднимаю новые инструменты и библиотеки.
-- **Практичность:** люблю делать “работающие штуки” — от API до деплоя на VPS.
+- I switched to software development deliberately: I enjoy building systems, automating processes, and delivering working solutions end-to-end.
+- I take ownership, can organize work, adapt quickly, and test ideas in practice.
+- I care about code quality and clear architecture: clean code, OOP, and solid design fundamentals.
 
 ---
 
-## Технологии и инструменты
+## How I got into development
 
-**Языки**
-- Python (основной)
-- JavaScript
-- Rust (интеграции/ускорение отдельных частей)
-- Shell / PowerShell (утилиты, автоматизация)
+I started with free learning materials and a lot of hands-on practice:
+- I explored some low-level topics (including assembly syntax) to understand how things work under the hood,
+- then moved to **Python** and chose it as my primary language,
+- and built a foundation through small projects: functions, project structure, clean code, and simple architectural decisions.
+
+---
+
+## Strengths
+
+- **Product / business mindset:** I think in terms of value, constraints, and outcomes.
+- **Communication & coordination:** I can explain clearly, align people, and build effective collaboration.
+- **Fast learner:** I pick up new tools and libraries quickly when the task requires it.
+- **Practical approach:** I like building “things that work” — from APIs to VPS deployment.
+
+---
+
+## Tech stack & tools
+
+**Languages**
+- Python (primary)
+- Rust (integration / performance-critical parts)
+- Shell / PowerShell (utilities, automation)
 
 **Backend / API**
 - Django, DRF
 - FastAPI (ASGI)
-- REST API, интеграции с внешними сервисами, работа с документацией API
+- REST APIs, third-party integrations, working with API documentation
 
-**Асинхронщина / сеть**
+**Async / Networking**
 - aiogram (Telegram Bot API)
 - aiohttp / httpx
 - websockets
 
-**Базы данных и хранилища**
+**Databases & storage**
 - PostgreSQL, MySQL, SQLite
-- SQLAlchemy, миграции, базовое проектирование схемы
+- SQLAlchemy, migrations, basic schema design
 - Redis
 - asyncpg
 
-**DevOps / Deploy**
+**DevOps / Deployment**
 - Docker, Docker Compose
-- VPS (Ubuntu): деплой, настройка окружения, SSL, домены
+- VPS (Ubuntu): deployment, environment setup, SSL, domains
 - Reverse proxy: Caddy / Nginx
-- GitHub Actions (CI/CD), автоматизация сборки/проверок/выкатки
+- GitHub Actions (CI/CD): build/check/deploy automation
 
-**Крипто / блокчейн**
-- Экосистема Solana: понимание транзакций, RPC-взаимодействий и типовых сценариев
-- Python/Rust библиотеки под Solana (на практике — в проектах)
-
----
-
-## Что делаю (примеры задач)
-
-- Пишу сервисы и API: авторизация, CRUD, обработка данных, интеграции со сторонними API.
-- Делаю Telegram-ботов: сценарии, асинхронные запросы, хранение данных.
-- Собираю проекты “под ключ”: структура, окружение, контейнеризация, деплой на VPS.
-- В отдельных задачах подключаю Rust/low-level подход, когда нужна скорость/контроль.
+**Crypto / Blockchain**
+- Solana ecosystem: understanding transactions, RPC interactions, and common scenarios
+- Solana-related Python/Rust libraries (used in practice in my projects)
 
 ---
 
-## Цель
+## What I do (examples)
 
-Развиваться как **backend-разработчик на Python**, работать над реальными продуктами, усиливать инженерные навыки и постепенно брать больше ответственности за архитектуру и качество.
+- Build services and APIs: auth, CRUD, data processing, third-party integrations.
+- Build Telegram bots: flows, async requests, data storage.
+- Deliver projects end-to-end: structure, environment, containerization, VPS deployment.
+- Use Rust / low-level approaches when performance or control matters.
 
 ---
 
-## Контакты
+## Goal
+
+To grow as a **Python backend developer**, work on real products, strengthen engineering skills, and gradually take more responsibility for architecture and quality.
+
+---
+
+## Contacts
 
 - Telegram: https://t.me/Hallow_Tommy
 - Email: Turtlehaze13@gmail.com
