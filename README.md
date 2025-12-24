@@ -5,14 +5,6 @@ I’m a **software developer** with about **3 years** of experience. Before swit
 
 ---
 
-## About me
-
-- I switched to software development deliberately: I enjoy building systems, automating processes, and delivering working solutions end-to-end.
-- I take ownership, can organize work, adapt quickly, and test ideas in practice.
-- I care about code quality and clear architecture: clean code, OOP, and solid design fundamentals.
-
----
-
 ## Strengths
 
 - **Product / business mindset:** I think in terms of value, constraints, and outcomes.
