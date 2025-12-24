@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 My name is **Nikita**, I’m **29**, and I live in **Minsk, Belarus**.  
-I’m a **software developer** with about **3 years** of experience. Before switching to engineering, I worked in **marketing and business** — launching projects, validating hypotheses, and building processes and communication. My current focus is **Python backend development** and growing into a strong engineer.
+I’m a **backend developer** with about **3 years** of experience. Before switching to engineering, I worked in **marketing and business** — launching projects, validating hypotheses, and building processes and communication. My current focus is **Python backend development** and growing into a strong engineer.
 
 ---
 
