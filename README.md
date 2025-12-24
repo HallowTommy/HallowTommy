@@ -66,7 +66,7 @@ I started with free learning materials and a lot of hands-on practice:
 
 ---
 
-## What I do (examples)
+## What I do
 
 - Build services and APIs: auth, CRUD, data processing, third-party integrations.
 - Build Telegram bots: flows, async requests, data storage.
