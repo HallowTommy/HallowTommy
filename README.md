@@ -13,15 +13,6 @@ I’m a **software developer** with about **3 years** of experience. Before swit
 
 ---
 
-## How I got into development
-
-I started with free learning materials and a lot of hands-on practice:
-- I explored some low-level topics (including assembly syntax) to understand how things work under the hood,
-- then moved to **Python** and chose it as my primary language,
-- and built a foundation through small projects: functions, project structure, clean code, and simple architectural decisions.
-
----
-
 ## Strengths
 
 - **Product / business mindset:** I think in terms of value, constraints, and outcomes.
