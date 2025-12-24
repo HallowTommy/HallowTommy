@@ -5,8 +5,6 @@ I’m a **software developer** with about **3 years** of experience. Before swit
 
 ---
 
----
-
 ## Tech stack & tools
 
 **Languages**
