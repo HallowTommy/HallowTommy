@@ -5,13 +5,6 @@ I’m a **software developer** with about **3 years** of experience. Before swit
 
 ---
 
-## Strengths
-
-- **Product / business mindset:** I think in terms of value, constraints, and outcomes.
-- **Communication & coordination:** I can explain clearly, align people, and build effective collaboration.
-- **Fast learner:** I pick up new tools and libraries quickly when the task requires it.
-- **Practical approach:** I like building “things that work” — from APIs to VPS deployment.
-
 ---
 
 ## Tech stack & tools
